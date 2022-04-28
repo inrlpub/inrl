@@ -5,12 +5,12 @@
 ## Bot Setup
 
 1. Click [SCAN](https://replit.com/@inrlBots1/inrlwabot?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (SHADOW_SESSION).
+2. You will get a long text that needs after 4th step (INRL_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/SPARK-SHADOW/Shadow-Bot/fork)
+4. Click [FORK](https://github.com/inrlpub/inrlbots/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/SPARK-SHADOW/Shadow-Bot
+https://heroku.com/deploy?template=https://github.com/inrlpub/inrlbots
 ``` 
 6. Now change SPARK-SHADOW with your github username and click ENJOY<br>
    <br>
